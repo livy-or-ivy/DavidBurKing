@@ -2,4 +2,4 @@
 
 - Me chamo Davi, tenho 15 anos.
 - Atualmente estou estudando para Front-End.
- >  Aprendendo HTML, CSS e JS.
+  > Aprendendo HTML, CSS e JS.

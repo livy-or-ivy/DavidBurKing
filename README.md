@@ -1,7 +1,7 @@
 ## Bem-Vindo(a) ao meu Perfil :D
 
 - Me chamo Davi, tenho 15 anos.
-- Aprendendo JavaScript, HTML e CSS.
+- Aprendendo `JavaScript`, `HTMl` e `CSS`.
 
  
 <div align="center">

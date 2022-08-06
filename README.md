@@ -1,4 +1,4 @@
-<h2 align="center"> Bem-Vindo(a) ao meu Perfil :D </h2>
+<h2 align="center"> Bem-Vindo(a) ao meu Github </h2>
 <p align="center">
 • Me chamo Davi, tenho 15 anos.
 <br>

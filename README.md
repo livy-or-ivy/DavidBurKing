@@ -5,9 +5,13 @@
 • Aprendendo <b>JavaScript</b>, <b>HTML</b> e <b>CSS</b>.
 </p>
 
-<a href="https://github.com/DavidBurKing">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidBurKing&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBurKing&layout=compact&langs_count=7&theme=github_dark"/>
+<div align="center">
+  <a href="https://github.com/DavidBurKing">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidBurKing&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <br>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBurKing&layout=compact&langs_count=7&theme=github_dark"/>
+  <br>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
